@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi, I'm FckmlDev 👋
 
-<!--
-**FckmlDev/FckmlDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on @StrainLLC (https://github.com/StrainLLC).  
+* 🌱 I’m currently learning Java.
+* 👯 I’m looking to collaborate on something cool.  
+* 📫 How to reach me: Fckml#0001  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/NulledCodeDev">
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=NulledCodeDev&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
+</a>
+<a href="https://github.com/FckmlDev">
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=FckmlDev&layout=compact&theme=radical />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/FckmlDev">
+  <img align="left" alt="FckmlDev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
+<a href="">
+  <img align="left" alt="Fckml#0001" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
+<br />
