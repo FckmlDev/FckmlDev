@@ -2,7 +2,7 @@
 
 <br />
 
-* 🔭 I’m currently working on @StrainLLC (https://github.com/StrainLLC).  
+* 🔭 I’m currently working on @VeaxNetwork (https://github.com/VeaxNetwork).  
 * 🌱 I’m currently learning Java.
 * 👯 I’m looking to collaborate on something cool.  
 * 📫 How to reach me: Fckml#0001  
