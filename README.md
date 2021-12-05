@@ -2,10 +2,9 @@
 
 <br />
 
-* 🔭 I’m currently working on @VeaxNetwork (https://github.com/VeaxNetwork).  
-* 🌱 I’m currently learning Java.
-* 👯 I’m looking to collaborate on something cool.  
-* 📫 How to reach me: Fckml#0001  
+* 🔭 I’m currently working on uDropClub, Nasgar Online, BattleRIP.  
+* 🌱 I’m currently a Java Developer (2 Years Experience).
+* 📫 Contact me on discord: Fckml#0001  
 
 <a href="https://github.com/FckmlDev">
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=FckmlDev&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
