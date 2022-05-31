@@ -2,7 +2,7 @@
 
 <br />
 
-* 🔭 I’m currently working on uDropClub, Nasgar Online, BattleRIP.  
+* 🔭 I’m currently developing on SoloLegends Network, uDrop Club, Nasgar Online & NauticMC Network
 * 🌱 I’m currently a Java Developer (2 Years Experience).
 * 📫 Contact me on discord: Fckml#0001  
 
